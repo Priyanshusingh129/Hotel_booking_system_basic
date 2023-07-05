@@ -1,4 +1,4 @@
-Hotel Booking System Basic full php project
+Hotel/Trip Booking System Basic full php project
 
 This is a basic web development project for a trip booking system. With this website, you can easily book your trips by choosing from different available packages.
 Additionally, you can also book hotel accommodations and airline tickets through this platform. It provides the convenience of booking both tickets and tours for any destination.
